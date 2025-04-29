@@ -7,7 +7,7 @@ In this project, I analyzed transactional sales data for a retail company to ide
 ## Skills
 
 - 📊 Customer Segmentation (High-value customer identification)
-- 📈 Sales Performance Analysis (Products, categories, employees)
+- 📈 Sales Performance Analysis (Products, categories, employees, KPI development)
 - 📦 Data Acquisition (Kaggle API, file handling, zip extraction)
 - 🔍 Data Validation (Preview, QA checks, filtered metrics)
 
