@@ -4,15 +4,18 @@
 
 In this project, I analyzed transactional sales data for a retail company to identify **top-performing products, categories, and employees**, and to segment **high-value customers** for targeted engagement. By using **SQL, Python, and data visualization**, I provided actionable insights that could support **loyalty programs, rewards strategies, and sales team optimization**.
 
-## Featured Skills
+## Skills
 
-- ✅ **SQL**: Multi-table joins, aggregation, calculated fields, subqueries
-- 🐍 **Python (Pandas, Matplotlib)**: Data wrangling, analysis, and visualization
-- 📊 **Customer Segmentation**: High-value customer identification
-- 📈 **Sales Performance Analysis**: Products, categories, employees
-- 📦 **Data Acquisition**: Kaggle API, file handling (zip extraction)
-- 🔀 **Database Management**: SQLite, SQL-Python integration
-- 🔍 **Data Validation**: Preview, QA checks, filtered metrics
+- 📊 Customer Segmentation (High-value customer identification)
+- 📈 Sales Performance Analysis (Products, categories, employees)
+- 📦 Data Acquisition (Kaggle API, file handling, zip extraction)
+- 🔍 Data Validation (Preview, QA checks, filtered metrics)
+
+## Tools
+
+- 📚 SQL (SQLite, SQL-Python integration)
+- 🐍 Python (Pandas, Matplotlib)
+- 📓 Jupyter Notebook
 
 ## Project Structure
 
